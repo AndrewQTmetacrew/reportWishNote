@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"74f3991b2ef27847e591be81caf9721a","name":"test_auth","statistic":{"failed":2,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":6}},{"uid":"c8eb49667339c7bf64db1bebf28e00d9","name":"test_wish_visionboard","statistic":{"failed":0,"broken":7,"skipped":0,"passed":27,"unknown":0,"total":34}}]}
